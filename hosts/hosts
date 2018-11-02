@@ -8,6 +8,6 @@ centos-1.poopsockgaming.com
 centos-2.poopsockgaming.com
 centos-3.poopsockgaming.com
 
-[apche-all:children]
+[apache-all:children]
 apacheweb
 appserver
