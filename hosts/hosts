@@ -1,0 +1,13 @@
+[local]
+localhost
+
+[apacheweb]
+centos-1.poopsockgaming.com
+
+[appserver]
+centos-2.poopsockgaming.com
+centos-3.poopsockgaming.com
+
+[apche-all:children]
+apacheweb
+appserver
